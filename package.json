@@ -1,7 +1,7 @@
 {
   "name": "grunt-svg2ttf",
   "description": "Create a TTF font from an SVG font",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/nfroidure/grunt-svg2ttf",
   "author": {
     "name": "Nicolas Froidure",
@@ -34,6 +34,6 @@
     "grunt": "~0.4.1"
   },
   "keywords": [
-    "gruntplugin", "font", "svg", "ttf", "converter"
+    "gruntplugin", "grunt", "grunt-plugin", "font", "svg", "ttf", "converter"
   ]
 }
